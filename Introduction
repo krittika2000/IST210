@@ -1,1 +1,120 @@
-This is for Spring 2020 IST 210 class
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "IST210firstday.ipynb",
+      "provenance": [],
+      "toc_visible": true,
+      "authorship_tag": "ABX9TyNiK7IU0uhKRpsUeuh2TaI+",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/krittika2000/IST210/blob/master/Introduction\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "MmjcGu2szZ4l",
+        "colab_type": "code",
+        "outputId": "3aab491a-6fde-4506-e1d5-733c5d93655d",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        }
+      },
+      "source": [
+        "2+2"
+      ],
+      "execution_count": 0,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "4"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 1
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "dTUVyJRWz9V1",
+        "colab_type": "text"
+      },
+      "source": [
+        "This is my first notebook\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "vBs6ioCS0Ptk",
+        "colab_type": "code",
+        "outputId": "e4e84a65-149b-45c8-9a48-9a9e2ac994c6",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        }
+      },
+      "source": [
+        "2+3"
+      ],
+      "execution_count": 0,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "5"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 2
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "2ivUQWzA0RwF",
+        "colab_type": "text"
+      },
+      "source": [
+        "this is **bold**\n",
+        "# this is a header  \n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "p4XjDpZ607_K",
+        "colab_type": "text"
+      },
+      "source": [
+        "# New Section"
+      ]
+    }
+  ]
+}
